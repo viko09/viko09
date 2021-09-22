@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Victor Luna AKA Viko
 - 👀 I’m interested in Computational Physics, Data Science and Artificial Inteligence.
 - 🌱 I’m currently learning Corsika Software, and I'm improving my programming skills.
-- 💞️ I’m looking to collaborate on Data Science projects or Artificial Inteligence. I want to bring help whit 
-computer simulations, computational physics and fields related with AI, Data Science and Data Analysis.
+- 💞️ I’m looking for collaborations on Data Science projects or Artificial Inteligence. I want to bring help whit computer simulations, computational physics and fields related with AI, Data Science and Data Analysis.
 - 📫 You can reach me on Telegram or WhatsApp, just type me to +52 1 221 650 2562
 
 <!---
